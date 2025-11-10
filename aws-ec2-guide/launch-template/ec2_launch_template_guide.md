@@ -239,6 +239,7 @@ Once your instance is launched and running:
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
 - [AWS Free Tier](https://aws.amazon.com/free/)
 - [EC2 Launch Templates User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html)
+- [AWS EC2 Launch Template Demo PDF with screenshots](https://scribehow.com/viewer/AWS_EC2_Launch_Template_Demo__SU-XEMLaTCO1PLEilQUXXA)
 
 ---
 
